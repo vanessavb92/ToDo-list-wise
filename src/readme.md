@@ -1,14 +1,31 @@
-# sobre List wise
+# ToDo-list-wise
 
-Esta aplicação é um exercicio básico onde da oportunidade ao usuário de criar,editar, e eliminar suas tarefas já concluidas.
+Um projeto simples de lista de tarefas
+ utilizando JavaScript, HTML e Vite.
 
+ ![descrição da imagem](./prototipo.png)
 
+ # Funcionalidades
 
-# Protótipo de alta qualidade
+* Adicionar tarefas à lista
+* Marcar tarefas como concluídas
+* Excluir tarefas da lista
 
-![protótipo de alta qualidade](../src/prototipo.png)
+# Pré-requisitos
+Node.js (versão X.X.X)
+Navegador web compatível
 
+# Instalação 
 
-# Recomendações 
+1. Clone o repositório:
+git clone https://github.com/seu-usuario/nome-do-projeto.git
 
-Aplicação criada com React Vite 
+2. Instale as dependências utilizando o Yarn:
+cd nome-do-projeto
+yarn install
+
+# Execução
+1. Inicie o servidor de desenvolvimento com o Vite:
+
+2. Abra o seu navegador web e acesse a URL:
+http://localhost:3000
